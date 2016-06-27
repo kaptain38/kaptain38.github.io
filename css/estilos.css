@@ -1,0 +1,36 @@
+/*
+# --> id
+. --> el otro
+*/
+body{
+	background-color: #0A71AB;
+	color: white;
+}
+
+td{
+	border-bottom: 1px solid #2493d9;
+	border-left: 1px solid #2493d9;
+	text-align: center;
+}
+
+.nombre-equipo{
+	text-align: left;
+	border-left: 0;
+}
+
+.grupo{
+	background: #005a8a;
+}
+
+.titulo{
+	font-family: sans-serif;
+	font-size: 36px;
+}
+
+.puntos{
+	background: #EB9114;
+}
+
+.columnasPuntos{
+	background: #000000;
+}
